@@ -31,3 +31,4 @@ python main.py --env_name [name of environment]
 
 ## Reference
 - [pytorch example](https://github.com/pytorch/examples/blob/master/reinforcement_learning/reinforce.py)
+https://github.com/JamesChuanggg/pytorch-REINFORCE
